@@ -1,0 +1,11 @@
+C:\Users\roshan\Desktop\asp.net core mvc\SportsApplication\SportsApplication\bin\Debug\netcoreapp2.0\SportsApplication.deps.json
+C:\Users\roshan\Desktop\asp.net core mvc\SportsApplication\SportsApplication\bin\Debug\netcoreapp2.0\SportsApplication.runtimeconfig.json
+C:\Users\roshan\Desktop\asp.net core mvc\SportsApplication\SportsApplication\bin\Debug\netcoreapp2.0\SportsApplication.runtimeconfig.dev.json
+C:\Users\roshan\Desktop\asp.net core mvc\SportsApplication\SportsApplication\bin\Debug\netcoreapp2.0\SportsApplication.dll
+C:\Users\roshan\Desktop\asp.net core mvc\SportsApplication\SportsApplication\obj\Debug\netcoreapp2.0\SportsApplication.csprojAssemblyReference.cache
+C:\Users\roshan\Desktop\asp.net core mvc\SportsApplication\SportsApplication\obj\Debug\netcoreapp2.0\SportsApplication.csproj.CoreCompileInputs.cache
+C:\Users\roshan\Desktop\asp.net core mvc\SportsApplication\SportsApplication\obj\Debug\netcoreapp2.0\SportsApplication.AssemblyInfoInputs.cache
+C:\Users\roshan\Desktop\asp.net core mvc\SportsApplication\SportsApplication\obj\Debug\netcoreapp2.0\SportsApplication.AssemblyInfo.cs
+C:\Users\roshan\Desktop\asp.net core mvc\SportsApplication\SportsApplication\bin\Debug\netcoreapp2.0\SportsApplication.pdb
+C:\Users\roshan\Desktop\asp.net core mvc\SportsApplication\SportsApplication\obj\Debug\netcoreapp2.0\SportsApplication.dll
+C:\Users\roshan\Desktop\asp.net core mvc\SportsApplication\SportsApplication\obj\Debug\netcoreapp2.0\SportsApplication.pdb
